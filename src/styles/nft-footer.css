@@ -1,0 +1,28 @@
+footer {
+    background-color: #202225;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.foot-panel4 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-left a {
+    margin-left: 10px;
+    color: #919191;
+    text-decoration: none;
+}
+
+.footer-right a {
+    margin-left: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+.icons {
+    margin: 0 5px;
+}
